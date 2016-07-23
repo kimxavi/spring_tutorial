@@ -1,3 +1,3 @@
 # spring_tutorial
 
-Spring tutorial Wiki
+go Wiki
